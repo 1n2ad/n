@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "15601962813",
+    "project_id": "smart-8f9fc",
+    "storage_bucket": "smart-8f9fc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15601962813:android:b97160a76151210ca2bf54",
+        "android_client_info": {
+          "package_name": "com.smart_guide_to_medication.smart_guide_to_medication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxaxVbkOf2xG-nPBt6apww-Gy0NHZKkmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
